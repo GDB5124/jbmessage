@@ -30,4 +30,4 @@ JBEdu Messenger+ 쪽지 발송 도우미입니다. Windows에서 로그인된 �
 
 - 제작: 구두방장선생
 - 블로그: https://blog.naver.com/qkfkekdl
-- 문의: qkfkekdl@gmail.com
+- 문의: qkfkekdl@gmail.com 또는 https://open.kakao.com/o/sURQRK0d
